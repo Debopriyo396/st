@@ -7,3 +7,5 @@ app.get("/", (req, res) => {
     "message":"Hi"
   })
 })
+
+app.listen(3000)
